@@ -43,7 +43,7 @@ The project was developed as a part of the "Deep Learning for NLP" course, Dept.
 
 
 [requirements.txt]: <requirements.txt>
-[models]: <models>
+[models]: <https://drive.google.com/drive/folders/1eK8kEVuiRz1aDObVMwJ-WGBy4vjOAP0H?usp=sharing>
 [data]: <data>
 [wikidata-simplequestions]: <https://github.com/askplatypus/wikidata-simplequestions/tree/master>
 [Wikidata]: <https://www.wikidata.org/wiki/Wikidata:Main_Page>
