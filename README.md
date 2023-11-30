@@ -40,3 +40,10 @@ This will set up the models and prepare the question answering engine.
 In the last cell, a space will appear. There, type your question, and the answer will be typed below. 
 
 The project was developed as a part of the "Deep Learning for NLP" course, Dept. of Informatics and Telecommunications, NKUA and has been extended afterwards.
+
+
+[requirements.txt]: <requirements.txt>
+[models]: <models>
+[data]: <data>
+[wikidata-simplequestions]: <https://github.com/askplatypus/wikidata-simplequestions/tree/master>
+[Wikidata]: <https://www.wikidata.org/wiki/Wikidata:Main_Page>
