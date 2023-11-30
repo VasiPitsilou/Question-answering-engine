@@ -22,7 +22,7 @@ You should have the packages written in [requirements.txt] installed. To install
 pip install -r requirements.txt
 ```
 
-### Run .py
+### Run in terminal
 
 Now, you can run the program. Run:
 ```
@@ -31,7 +31,7 @@ python3 qa.py
 
 A box will appear where you can type your question. 
 
-### Run .ipynb
+### Run notebook
 
 Open qa.ipynb on a notebook environment, such as Google Colab or Kaggle.
 There, you will need to upload all the files from [models] and [data] directory.
