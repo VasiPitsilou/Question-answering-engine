@@ -1,0 +1,4 @@
+sparqlwrapper
+transformers
+torch
+scikit-learn
