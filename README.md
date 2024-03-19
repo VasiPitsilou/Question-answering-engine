@@ -7,7 +7,7 @@ For example, in the sentence "where was Michael Douglas born", the entity predic
 
 BERT fine-tuning is performed using a training dataset of 19481 instances, contained in _data_ folder. The dataset is taken from [wikidata-simplequestions]. 
 
-That way, in a question typed by the user (e.g., when was Michael Douglas born), the two models will predict the entity (Michael Douglas) and the relation where born. A SPARQL query will then be made to [Wikidata] database and the answer (i.e., where was Michael Douglas born), will be returned.
+That way, in a question typed by the user (e.g., when was Michael Douglas born), the two models will predict the entity (Michael Douglas) and the relation (where born). A SPARQL query will then be made to [Wikidata] database and the answer (i.e., where was Michael Douglas born), will be returned.
 
 ## Requirements
 
